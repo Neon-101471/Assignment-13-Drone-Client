@@ -1,0 +1,17 @@
+/* import poppins google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.App {
+  text-align: left;
+}
+a{
+  text-decoration: none;
+}
+.blue{
+  color: #121f59;
+}
+.bg-blue{
+  background: #3f86fe;
+}
